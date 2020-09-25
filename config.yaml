@@ -1,0 +1,6 @@
+apps:
+  sshd:
+    address: 127.0.0.1:2222
+    origins: [
+      127.0.0.1:22
+    ]
